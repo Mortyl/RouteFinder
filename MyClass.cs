@@ -2,8 +2,6 @@ using System;
 
 namespace myApp
 {
-    poo
-    ggg
     class GFG
     {
         // A utility function to find the 
